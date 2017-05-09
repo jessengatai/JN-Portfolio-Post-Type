@@ -2,7 +2,7 @@
 /**
  * Plugin Name: JN Portfolio Post Type
  * Plugin URI: https://github.com/jessengatai/jn-portfolio-post-type
- * Description: Enables a portfolio post type for use in our (Jesse Ngatai) compatible themes
+ * Description: Enables a portfolio post type for use in my (Jesse Ngatai) compatible themes
  * Version: 1.4
  * Author: Jesse Ngatai
  * Author URI: https://www.jessengatai.com
